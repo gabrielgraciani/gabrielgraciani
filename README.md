@@ -8,13 +8,13 @@ My name is Gabriel Thomaz Graciani. I am a JR. Front-end Developer at Venturus. 
 
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 Javascript
+* ⭐ Javascript
 * ⚛️ React js
-* :nodejs: Node js
+* ⭐ Node js
 * 🌐 HTML | CSS | SASS
 * 🛢️ MySQL | SQLite
 * ☁ Firebase
-* :php: PHP
+* ⭐ PHP
 * :octocat: Git | Github
 
 ## 📫 Get in touch
