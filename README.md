@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**gabrielgraciani/gabrielgraciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Here are some ideas to get you started:
+My name is Gabriel Thomaz Graciani. I am a JR. Front-end Developer at Venturus. I am passionate about technologies and love to learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* 🗣 Javascript
+* ⚛️ React js
+* :nodejs: Node js
+* 🌐 HTML | CSS | SASS
+* 🛢️ MySQL | SQLite
+* ☁ Firebase
+* :php: PHP
+* :octocat: Git | Github
+
+## 📫 Get in touch
+- LinkedIn - [Gabriel Thomaz Graciani](https://www.linkedin.com/in/gabriel-thomaz-graciani-98400b166/)
+
+ or give some ♥ on [mail](mailto:gabrieltgraciani@hotmail.com) .
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielgraciani/gabrielgraciani)
+
+
+ 
