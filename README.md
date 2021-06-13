@@ -10,9 +10,10 @@ Here are a few things I've picked up along my learning journey.
 
 * ⭐ Javascript
 * ⚛️ React js
+* ⚛️ React Native
 * ⭐ Node js
 * 🌐 HTML | CSS | SASS
-* 🛢️ MySQL | SQLite
+* 🛢️ MySQL | SQLite | Postgres
 * ☁ Firebase
 * ⭐ PHP
 * :octocat: Git | Github
